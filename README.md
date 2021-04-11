@@ -28,3 +28,9 @@ eslint-watch package add file watching functionality for lint file
   - where to place tests: alongside original
   - when to run tests: upon save
 
+** push to github
+
+  - `git add .`
+  - `git commit -m "message"`
+  - `git push `
+
