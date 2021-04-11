@@ -34,3 +34,8 @@ eslint-watch package add file watching functionality for lint file
   - `git commit -m "message"`
   - `git push `
 
+** for windows platfrom deployment CI use appveyor.com
+
+  - .travis.yml for travis ci
+  - appveyor.yml for AppVeyor
+
