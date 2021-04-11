@@ -39,3 +39,9 @@ eslint-watch package add file watching functionality for lint file
   - .travis.yml for travis ci
   - appveyor.yml for AppVeyor
 
+** planning mock HTTP
+
+  - declare schema using 'JSON Schema Faker'
+  - generate random data using 'faker.js/change.js/randexp.js'
+  - serve data via API using 'JSON Server'
+
